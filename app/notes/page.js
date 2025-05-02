@@ -434,7 +434,7 @@ export default function NotesPage() {
                 className="w-8 h-8 sm:w-9 sm:h-9 md:w-10 md:h-10 rounded-full shadow-md dark:invert object-cover"
               />
               <h1 className="ml-2 sm:ml-3 text-lg sm:text-xl md:text-2xl font-bold text-gray-900 dark:text-white truncate">
-                AI-Notes
+                <a href="/">AI-Notes</a>
               </h1>
             </div>
 
